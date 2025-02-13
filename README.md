@@ -6,3 +6,4 @@ The distance method was is a simple calculation that returns the distance betwee
 
 I have also created a Makefile that allows for easy compilation of the code in the terminal. It creates an executable called "disk". After running the executable, the results can be visualised by running "view.py" which creates an animated plot of the results.
 
+All commits can seen using git log in the terminal.
