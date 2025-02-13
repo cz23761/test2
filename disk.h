@@ -10,6 +10,6 @@ class Disk {
 
         void move(double dx, double dy);
         double distance(Disk& other);
-}
+};
 
 #endif
